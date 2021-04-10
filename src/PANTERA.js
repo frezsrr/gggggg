@@ -1,0 +1,8 @@
+const PANTERA = (prefix, sender) => {
+	return `PANTERA CREW(OOFF&HCBR)
+	PANTERA DEV
+	SABE CRIAR SRIPT,UPDATE 1% DE SER GAY
+`
+}
+
+exports.PENTERA = PANTERA

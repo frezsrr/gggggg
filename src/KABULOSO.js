@@ -1,0 +1,9 @@
+const KABULOSO = (prefix, sender) => {
+	return `KABULOSO NAO TEM OQ DIZER NE
+    FAZ ACADEMIA E DPS COME HAMBURGUE KKK
+    DIZER LOGO NA LATA 10000% DE SER GAY	
+	
+`
+}
+
+exports.KABULOSO = KABULOSO

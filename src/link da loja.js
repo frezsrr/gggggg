@@ -1,0 +1,16 @@
+const OOFF = (prefix, sender) => {
+	return `TODOS OS COMANDOS ESTAO EM TESTE
+	!FELESPA
+	!TERRA
+	!PIVETINHO
+	!DOMINAT
+	!MALOKA
+	!CODORNA
+	!PEDRO
+	!PANTERA
+	!KABULOSO
+	!VARELA
+`
+}
+
+exports.OOFF = OOFF

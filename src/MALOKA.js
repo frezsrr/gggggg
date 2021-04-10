@@ -1,0 +1,9 @@
+const MALOKA = (prefix, sender) => {
+	return `MALOKA 
+	DONO DO OOFF CREW(OOFF&HCBR)
+	MALOKA E GENTE BOA E NAMORA ENTA NAO E GAY PASSOU NO TESTE
+
+`
+}
+
+exports.MALOKA = MALOKA
